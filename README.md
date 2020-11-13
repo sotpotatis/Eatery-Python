@@ -47,4 +47,3 @@ See the "Releases" tab and the documentation.
 
 All functions, variables, and attributes of the code are documented. You can find it on the official library documentation, which is provided by [GitBook](https://gitbook.com) and hosted on https://lunchbot-python.albins.website.
 
-(no code has been uploaded yet, it's just the initial repository that has been created)
